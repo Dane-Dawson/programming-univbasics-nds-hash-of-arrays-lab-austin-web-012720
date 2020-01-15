@@ -6,7 +6,5 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-#code entered here
-end
-
 BASE_HOA[show] << name
+end
